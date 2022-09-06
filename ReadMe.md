@@ -20,3 +20,5 @@ ML enthusiast, skilled in Python programming (Pandas, Numpy,<br>Scikit learn), N
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mr-Shivam-Sinha&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
